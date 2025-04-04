@@ -26,5 +26,3 @@ This dataset can be used for analyzing the factors affecting teacher training qu
 
 ## License
 This dataset is provided for research purposes only.
-"""
-
