@@ -1,7 +1,4 @@
-# Teacher-Training-Factors-with-Feedback-Analysis
 
-# Creating the README.md file content again
-readme_content = """
 # Teacher Training Quality Factors Dataset
 
 ## Dataset Overview
